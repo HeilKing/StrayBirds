@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: HeilKing
-baseurl: /blog
+baseurl: /yangyizu
 markdown: redcarpet
 safe: false
 highlighter: pygments
