@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: HeilKing
-baseurl: /hyp
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
