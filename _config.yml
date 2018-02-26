@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: HeilKing
-baseurl: /HeilKing.github.io
+baseurl: /hyp
 markdown: redcarpet
 safe: false
 highlighter: pygments
